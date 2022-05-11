@@ -35,7 +35,7 @@ Build a simple Lambda Function that sits behind an API gateway endpoint, learn h
 </a>
 
 
-### **2) Automate static website deployments to S3 using CodePipeline
+### **2) Automate static website deployments to S3 using CodePipeline**
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline.
 
