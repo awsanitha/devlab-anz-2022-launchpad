@@ -11,31 +11,17 @@ Each lab takes approximately 15 minutes.
 
 ## Instructions
 
-* Select a lab to work through
-* Click on "Lab Instructions"
-* Click on "Go to Console"
-* Follow instructions of specific lab to walk through it
-* Fill in "Give Feedback" to get a small gift from us
+* Select a lab to work through.
+* Click on "Lab Instructions".
+* Click on "Go to Console".
+* Follow instructions of specific lab to walk through it.
+* Fill in "Give Feedback" to get a small gift from us.
 * Enjoy!
 
 ## Select a lab from below to begin
 
-### **1) Building and Debugging Lambdas with Cloud9**
 
-Build a simple Lambda Function that sits behind an API gateway endpoint, learn how to use the Cloud9 IDE to Build, Debug and Deploy this Function.
-
-<a href="https://bit.ly/3yugqJ4" target="_blank">
-<img src="./media/labButton.png" width="20%">
-</a>
-<a href="https://console.aws.amazon.com/console/home" target="_blank">
-<img src="./media/consoleButton.png" width="20%">
-</a>
-<a href="https://eventbox.dev/survey/W87HQGI">
-<img src="./media/feedbackButton.png" width="20%">
-</a>
-
-
-### **2) Automate static website deployments to S3 using CodePipeline**
+### **1) Automate static website deployments to S3 using CodePipeline**
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline.
 
@@ -50,7 +36,7 @@ This lab walks you through the steps to host and deploy static websites to S3 us
 </a>
 
 
-### **3) Build serverless data pipeline to process unstructured data (text) in your data lake**
+### **2) Build serverless data pipeline to process unstructured data (text) in your data lake**
 
 In this lab, we will see how to process unstructured data using serverless options. We will be deploying a data pipeline that will perform sentiment analysis on text data. After the pipeline is completed, you can run SQL to get summary of sentiments score.
 
@@ -64,7 +50,7 @@ In this lab, we will see how to process unstructured data using serverless optio
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
-### **4) Build a live streaming application with Amazon Interactive Video Service**
+### **3) Build a live streaming application with Amazon Interactive Video Service**
 
 This lab will walk you through how you can build a live streaming mobile application to create an interactive video experience.
 
@@ -80,7 +66,7 @@ This lab will walk you through how you can build a live streaming mobile applica
 </a>
 
 
-### **5) Bring your containerized web application online with Docker, AWS App Runner and Amazon Elastic Container Registry**
+### **4) Bring your containerized web application online with Docker, AWS App Runner and Amazon Elastic Container Registry**
 
 In this lab we will learn how to build a containerized web application, publish the container image to Amazon Elastic Container Registry, and use AWS App Runner to pull the image from the registry to host the application on AWS Cloud.
 
@@ -94,7 +80,7 @@ In this lab we will learn how to build a containerized web application, publish 
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
-### **6) Update IAM Password Policy Programmatically**
+### **5) Update IAM Password Policy Programmatically**
 
 This lab walks you through the steps you need to take to automatically set the IAM Password Policy for all AWS IAM users according to AWS Foundational Security Best Practices standard. It also describes how you can govern the IAM Password Policy across all linked accounts.
 
@@ -108,7 +94,7 @@ This lab walks you through the steps you need to take to automatically set the I
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
-### **7) AWS Amplify React 101**
+### **6) AWS Amplify React 101**
 
 Creating a React App hosted on Amplify that takes advantage of the seamless integration with Material UI to quickly build UI components. The workshop covers creation of components like tables, buttons etc. as well as style modules to manipulate the look of the UI features.
 
@@ -123,7 +109,7 @@ Creating a React App hosted on Amplify that takes advantage of the seamless inte
 </a>
 
 
-### **8) Build a visual search engine using AWS AI ML services**
+### **7) Build a visual search engine using AWS AI ML services**
 
 Sometimes it’s hard to find the right words to describe what you’re looking for. As the adage goes, “A picture is worth a thousand words.” Often, it’s easier to show a physical example or image than to try to describe an item with words, especially when using a search engine to find what you’re looking for. 
 
@@ -140,7 +126,7 @@ In this lab, you build a visual image search application from scratch in under 1
 </a>
 
 
-### **9) Run Chaos Engineering experiments on Amazon Elastic Container Service with AWS Fault Injection Simulator**
+### **8) Run Chaos Engineering experiments on Amazon Elastic Container Service with AWS Fault Injection Simulator**
 
 In this lab we will run chaos engineering experiments by injecting faults into Amazon ECS. We will observe how these experiments helps us to observe the resiliency of the application.
 
@@ -155,7 +141,7 @@ In this lab we will run chaos engineering experiments by injecting faults into A
 </a>
 
 
-### **10) Using Amazon Macie to detect Sensitive Data in S3 buckets**
+### **9) Using Amazon Macie to detect Sensitive Data in S3 buckets**
 
 The lab will involve participants loading some sample data into an S3 bucket. And then enabling and running Macie on that specific bucket, and finally parsing through the results to view the outputs.
 
@@ -170,7 +156,7 @@ The lab will involve participants loading some sample data into an S3 bucket. An
 </a>
 
 
-### **11) Quickly accelerate application performance using Amazon ElastiCache for Redis with AWS CDK**
+### **10) Quickly accelerate application performance using Amazon ElastiCache for Redis with AWS CDK**
 
 The lab showcases Amazon Elasticache through a demo App that can be deployed using CDK.
 
@@ -185,7 +171,7 @@ The lab showcases Amazon Elasticache through a demo App that can be deployed usi
 </a>
 
 
-### **12) Build a serverless application using AWS CDK for .NET**
+### **11) Build a serverless application using AWS CDK for .NET**
 
 Learn how to become a super efficient user of the aws cli
 
