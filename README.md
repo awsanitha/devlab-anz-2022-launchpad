@@ -94,7 +94,7 @@ Creating a React App hosted on Amplify that takes advantage of the seamless inte
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/VZCG7CZ" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
+<a href="https://eventbox.dev/survey/AZMUBLQ" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
 
 ### **7) Build a visual search engine using AWS AI ML services**
