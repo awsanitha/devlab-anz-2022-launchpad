@@ -25,13 +25,13 @@ Each lab takes approximately 15 minutes.
 
 This lab walks you through the steps to host and deploy static websites to S3 using CodePipeline.
 
-<a href="https://bit.ly/37z5leB">
+<a href="https://bit.ly/3LmkZrB">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
 <img src="./media/consoleButton.png" width="20%">
 </a>
-<a href="https://eventbox.dev/survey/0GYX1KB">
+<a href="https://eventbox.dev/survey/0GYX1KB" target="_blank">
 <img src="./media/feedbackButton.png" width="20%">
 </a>
 
