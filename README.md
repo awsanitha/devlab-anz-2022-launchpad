@@ -150,8 +150,6 @@ The lab showcases Amazon Elasticache through a demo App that can be deployed usi
 </a>
 <a href="https://eventbox.dev/survey/V0R0E0X" target="_blank"><img src="./media/feedbackButton.png" width="20%"></a>
 
-<a href="https://eventbox.dev/survey/V0R0E0X" target="_blank">Feedback</a>
-
 ### **11) Build a serverless application using AWS CDK for .NET**
 
 Learn how to become a super efficient user of the aws cli
