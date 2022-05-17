@@ -51,7 +51,7 @@ In this lab, we will see how to process unstructured data using serverless optio
 This lab will walk you through how you can build a live streaming mobile application to create an interactive video experience.
 
 
-<a href=""> <!--to update this -->
+<a href="https://bit.ly/3LvuViE">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
