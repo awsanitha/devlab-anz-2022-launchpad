@@ -129,7 +129,7 @@ In this lab we will run chaos engineering experiments by injecting faults into A
 
 The lab will involve participants loading some sample data into an S3 bucket. And then enabling and running Macie on that specific bucket, and finally parsing through the results to view the outputs.
 
-<a href="https://bit.ly/3w12qVi">
+<a href="https://bit.ly/38slZx3">
 <img src="./media/labButton.png" width="20%">
 </a>
 <a href="https://console.aws.amazon.com/console/home">
